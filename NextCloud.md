@@ -6,6 +6,7 @@
 
 ___
 ## Table of Contents
+* TOC
 {:toc}
 ___
 ## Logging in
