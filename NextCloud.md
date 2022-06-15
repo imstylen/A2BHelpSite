@@ -5,14 +5,14 @@
 [Home](index.md)
 
 ___
-## Table of contents
--   [Logging in](app://obsidian.md/index.html#Logging%20in)
--   [Creating New Folders](app://obsidian.md/index.html#Creating%20New%20Folders)
--   [Uploading Files](app://obsidian.md/index.html#Uploading%20Files)
-    -   [For Example:](app://obsidian.md/index.html#For%20Example:)
--   [Creating a link for a single file](app://obsidian.md/index.html#Creating%20a%20link%20for%20a%20single%20file)
--   [Sharing an entire folder (Read only)](app://obsidian.md/index.html#Sharing%20an%20entire%20folder%20(Read%20only))
--   [Sharing an entire folder (File Drop)](app://obsidian.md/index.html#Sharing%20an%20entire%20folder%20(File%20Drop))
+## Table of Contents
+- [Logging in](#Logging%20in)
+- [Creating New Folders](#Creating%20New%20Folders)
+- [Uploading Files](#Uploading%20Files)
+	- [For Example](#For%20Example)
+- [Creating a link for a single file](#Creating%20a%20link%20for%20a%20single%20file)
+- [Sharing an entire folder Read only](#Sharing%20an%20entire%20folder%20Read%20only)
+- [Sharing an entire folder File Drop](#Sharing%20an%20entire%20folder%20File%20Drop)
 
 ___
 ## Logging in
