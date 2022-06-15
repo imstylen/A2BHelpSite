@@ -35,6 +35,8 @@ ___
 
 ![](Pasted%20image%2020220615130247.png)
 
+1. After you have navgated to the appropriate folder, Drag files from your PC into your web browser to upload.
+
 ___
 ## Creating a link for a single file
 1. Select the file
