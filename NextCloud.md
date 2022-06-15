@@ -6,7 +6,7 @@
 
 ___
 ## Table of Contents
-* TOC {:toc}
+{:toc}
 ___
 ## Logging in
 - **If you need your credentials, email Michael.**
