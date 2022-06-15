@@ -1,4 +1,5 @@
 # Next Cloud
+### [Home](index.md)
 
 ## Logging in
 - If you need your credentials, email Michael.
